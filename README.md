@@ -81,7 +81,7 @@ The `DecisionStump` class enumerates candidate splits for every feature-threshol
 To run this project smoothly, follow these steps:
 ```bash
 ### 1. Clone the Repository
-git clone https://github.com/Samarth677/Project2.git
+git clone https://github.com/JenilPanchal/ML_Project2
 cd Project2
 
 ### 2. Install dependencies
